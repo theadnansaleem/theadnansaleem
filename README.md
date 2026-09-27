@@ -8,4 +8,10 @@ Eight years building production web platforms for government, fintech and cybers
 - LinkedIn: https://www.linkedin.com/in/theadnan/
 - Email: heyadnansaleem@gmail.com
 
+## Case studies
+
+- [Micro Frontends with Module Federation on the Qatar Events Platform](https://theadnansaleem.com/work/qatar-events-platform-module-federation)
+- [Hayya Qatar eVisa and event access platform](https://theadnansaleem.com/work/hayya-qatar-evisa-platform)
+- [React performance on a multi-currency payments platform](https://theadnansaleem.com/work/volopa-react-performance)
+
 Relocating to the GCC.
