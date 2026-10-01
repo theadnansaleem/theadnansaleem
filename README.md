@@ -10,13 +10,13 @@ Splitting monolithic React frontends into micro frontends with Module Federation
 
 ### Recent work
 
-**Qatar national event platforms** — contract engagement via vendor for the Supreme Committee for Delivery & Legacy. Qatar Events Platform, Road to Qatar, and the Hayya eVisa platform, used across 10+ government entities. Rearchitected a monolithic React frontend into micro frontends; release cycle time came down about 40%. Core Web Vitals work took LCP down about 35%. [qep.sc.qa](https://qep.sc.qa) · [hayya.qa](https://www.hayya.qa)
+**Qatar national event platforms.** Contract engagement via vendor for the Supreme Committee for Delivery & Legacy. Qatar Events Platform, Road to Qatar, and the Hayya eVisa platform, used across 10+ government entities. Rearchitected a monolithic React frontend into micro frontends; release cycle time came down about 40%. Core Web Vitals work took LCP down about 35%. [qep.sc.qa](https://qep.sc.qa) · [hayya.qa](https://www.hayya.qa)
 
-**Volopa** — multi-currency payments and card platform, customers in 180+ countries, via MicroSysX. Profiled 20,000-row tables everyone assumed were slow on data fetching; the cost was re-rendering unchanged rows. Virtualisation and targeted memoisation cut render time about 70%. [volopa.com](https://volopa.com)
+**Volopa.** Multi-currency payments and card platform, customers in 180+ countries, via MicroSysX. Profiled 20,000-row tables everyone assumed were slow on data fetching; the cost was re-rendering unchanged rows. Virtualisation and targeted memoisation cut render time about 70%. [volopa.com](https://volopa.com)
 
-**Codex, Primary Target GmbH** — automotive cybersecurity platform assessing attack surface across 60M+ lines of vehicle software. Real-time threat dashboards over WebSockets, 4-tier RBAC, data redaction at the API boundary. [primary-target.com](https://primary-target.com)
+**Codex, Primary Target GmbH.** Automotive cybersecurity platform assessing attack surface across 60M+ lines of vehicle software. Real-time threat dashboards over WebSockets, 4-tier RBAC, data redaction at the API boundary. [primary-target.com](https://primary-target.com)
 
-**Benington Financials** — sole engineer, two and a half years, migrating 42 financial workflows off a twenty-year-old Visual FoxPro system with no specification. C#/.NET Core, EF Core, 42 T-SQL stored procedures, Angular and Blazor.
+**Benington Financials.** Sole engineer, two and a half years, migrating 42 financial workflows off a twenty-year-old Visual FoxPro system with no specification. C#/.NET Core, EF Core, 42 T-SQL stored procedures, Angular and Blazor.
 
 ### Stack
 
